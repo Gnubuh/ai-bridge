@@ -24,3 +24,4 @@ A Visual Studio Code extension to connect to DeepSeek's API (OpenAI-compatible) 
 ---
 
 For more details, see `vsc-extension-quickstart.md` and the `.github/copilot-instructions.md` file.
+# ai-bridge
